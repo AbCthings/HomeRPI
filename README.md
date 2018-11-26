@@ -3,6 +3,7 @@ Modules of my Rpi Home Automation and Monitoring Hub
 
 Features to develop for Raspberry:
 - Listener MQTT (DONE)
+- Publisher MQTT
 - MariaDb interfacing
 - Other integrations for IoT (zwave, google assistant, etc.)
 
