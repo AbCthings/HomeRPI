@@ -7,6 +7,8 @@ The main code can be inserted in a loop.
 
 Configuration file must be in the same directory.
 
+The output is redirected to a log file.
+
 Author: Alessandro Bortoletto
 Creation: 09/12/2018
 Last update: 11/12/2018
