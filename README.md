@@ -1,4 +1,4 @@
-# HomeRPI Project
+# The HomeRPI Project
 <i>Domotics made simple</i>
 
 Reference website for documentation and roadmap: https://rpi.home.blog/
