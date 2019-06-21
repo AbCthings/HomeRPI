@@ -1,5 +1,7 @@
-# RpiHome
-Modules of my Rpi Home Automation and Monitoring Hub
+# HomeRPI Project
+<i>Domotics made simple</i>
+
+Reference website: https://rpi.home.blog/
 
 Features to develop for Raspberry:
 - Listener MQTT (DONE)
