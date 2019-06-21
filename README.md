@@ -1,7 +1,7 @@
 # HomeRPI Project
 <i>Domotics made simple</i>
 
-Reference website: https://rpi.home.blog/
+Reference website for documentation and roadmap: https://rpi.home.blog/
 
 This project aims at exploring the power of domotics along its whole chain, from field sensors to front-end and data analytics. The project adopts a <i>microservice</i> architecture to empower scalability and durability. Each service is developed as an independent module which 
 can be run autonomously. Our main goal is to make things simple for both users and developer. We believe domotics shall make life easier and not harder :) Feel free to suggest/contribute/comment. Enjoy!
