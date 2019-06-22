@@ -7,26 +7,28 @@ This project aims at exploring the power of domotics along its whole chain, from
 can be run autonomously, enabling the integration in any other open-source application. Our main goal is to make things simple for both users and developer. We believe domotics shall make life easier and not harder :) Feel free to suggest/contribute/comment. Enjoy!
 
 # Server modules: Raspberry Pi oriented
-Features to develop for Raspberry:
-- Listener MQTT (DONE)
-- Publisher MQTT
-- MariaDb interfacing
-- Other integrations for IoT (zwave, google assistant, etc.)
-- Web server for OTA to NodeMCU
+- Common communication bus
+- MQTT wathcdog for platform logging
+- Database handler for timeseries and latest values storage
+- Web-server for edge devices OTA updates
+- Web-server for User Interface (web responsive app)
+- Analytics module
+- Communication adapters
+- Specific third-party products adapters
 
 # Front-end: a responsive website to control everything
-Front-end development:
-- Node-red dashboard for control and monitor
+- Single page web responsive app: control, configuration and monitoring
 
 # Edge elements: field sensors and actuation
-Features to develop for NodeMCU:
-- Sensor readings
+Features for NodeMCU-ESP8266:
+- Sensor acquisitions
 - MQTT publisher and subscriber
 - GPIO piloting
 - OTA Updates
 - NTP time synchronization
+- EEPROM interface for data persistence
 
 # Mobile app development: Android and iOS 
 Features to develop for Android:
-- MQTT publisher and subscriber
-- GUI updater (update varables from MQTT messages and send commands)
+- Android
+- iOS
