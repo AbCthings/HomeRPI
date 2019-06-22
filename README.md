@@ -14,7 +14,7 @@ Features to develop for Raspberry:
 - Other integrations for IoT (zwave, google assistant, etc.)
 - Web server for OTA to NodeMCU
 
-# Front-end: a single website to control everything
+# Front-end: a responsive website to control everything
 Front-end development:
 - Node-red dashboard for control and monitor
 
